@@ -46,7 +46,6 @@ C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcore
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.csproj.AssemblyReference.cache
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.AssemblyInfoInputs.cache
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.AssemblyInfo.cs
@@ -60,3 +59,9 @@ C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcore
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.dll
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.pdb
 C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.genruntimeconfig.cache
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hakan\Desktop\CRUDApp\CRUDApp\CRUDApp.API\CRUDApp.API\obj\Debug\netcoreapp3.1\CRUDApp.API.csproj.AssemblyReference.cache
