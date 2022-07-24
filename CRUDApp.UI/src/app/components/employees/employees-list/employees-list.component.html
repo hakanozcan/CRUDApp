@@ -4,12 +4,13 @@
 <table class="table" *ngIf="employees && employees.length>0" >
 <thead>
 <tr>
-    <td>ID</td>
-    <td>Name</td>
-    <td>Email</td>
-    <td>Phone</td>
-    <td>Salary</td>
-    <td>Department</td>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Phone</th>
+    <th>Salary</th>
+    <th>Department</th>
+    <th> </th>
 
 </tr>
 </thead>
@@ -23,6 +24,7 @@
         <td>{{employee.phone}}</td>
         <td>{{employee.salary}}</td>
         <td>{{employee.department}}</td>
+        <td><a [routerLink]="['/employees','edit', employee.id]">View</a></td>
     </tr>
 
 </tbody>
